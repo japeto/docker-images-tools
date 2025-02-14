@@ -4,8 +4,8 @@ This repository provides two Docker environments, one with basic development too
 
 ## 📂 Repository Structure
 .
-├── parallel-tools          # Dockerfile for Parallel Programming
-├── so-tools                # Dockerfile for C++ Programming 
+├── parallel_tools          # Dockerfile for Parallel Programming
+├── so_tools                # Dockerfile for C++ Programming 
 ├── tools                   # Tools and utilities
 └── README.md
 
