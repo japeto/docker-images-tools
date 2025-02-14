@@ -2,13 +2,6 @@
 
 This repository provides two Docker environments, one with basic development tools and another with support for parallel computing using MPI and OpenMP.
 
-## 📂 Repository Structure
-.
-├── parallel_tools          # Dockerfile for Parallel Programming
-├── so_tools                # Dockerfile for C++ Programming 
-├── tools                   # Tools and utilities
-└── README.md
-
 ## 🛠️ Available Images
 1. **GCC Development Tools (`so-tools`)**
    - Based on `gcc:4.9`
